@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # Markdown Badge 使用入门
 
 如果你打开一个热门开源的 ``GitHub`` 仓库，那么大概率就会看到很多五颜六色的 ``Badge`` 用于显示仓库的技术栈、统计、版本等等信息，看起来很酷。
@@ -12,10 +8,7 @@ outline: deep
 
 在这个网站 [md-badges](https://inttter.github.io/md-badges/)，你可以找到一大堆流行元素的 ``Badge`` 预制品。
 
-例如：
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](https://www.apple.com/store)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/)。
+预制品其实就是通过自定义制作好的，那么下面就介绍如何制作自己的专属 ``Badge`` 。
 
 ## 自定义
 
@@ -64,6 +57,8 @@ outline: deep
 ```md
 [![shields.io](https://img.shields.io/badge/any_text-you_like-blue)](https://shields.io/badges)
 ```
+
+通过这个 [icon网站](https://simpleicons.org/) 可以找到想要的 ``icon`` 和它对应的 ``color``
 
 ## 了解更多
 
