@@ -7,7 +7,8 @@ import {
 } from "vitepress-plugin-group-icons";
 
 // https://lloyd42.github.io
-const baseUrl = "http://localhost:4173";
+// http://localhost:4173
+const baseUrl = "https://lloyd42.github.io";
 
 const RSS: RSSOptions = {
   // necessary（必选参数）
