@@ -66,6 +66,10 @@
 - <https://simpleicons.org/>
 - <https://inttter.github.io/md-badges/>
 
+```md
+This message is used to verify that this feed (feedId:72808323002484736) belongs to me (userId:68270158418253824). Join me in enjoying the next generation information browser https://follow.is.
+```
+
 <style module>
   p:has(a):not(:has(code)) {
     display: flex;

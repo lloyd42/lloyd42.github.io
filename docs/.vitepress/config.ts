@@ -70,7 +70,7 @@ export default defineConfig({
   lastUpdated: true,
 
   markdown: {
-    lineNumbers: true,
+    // lineNumbers: true,
     image: {
       lazyLoading: true,
     },
